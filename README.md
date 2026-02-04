@@ -1,6 +1,6 @@
-# {{APP_NAME}} Website
+# SimpleAnythingTodo Website
 
-{{APP_NAME}}アプリのランディングページです。
+SimpleAnythingTodoアプリのランディングページです。
 
 ## ローカルで確認
 

@@ -1,4 +1,4 @@
-// {{APP_NAME}} Landing Page JavaScript
+// SimpleAnythingTodo Landing Page JavaScript
 
 document.addEventListener('DOMContentLoaded', () => {
     // スムーズスクロール
